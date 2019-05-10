@@ -13,3 +13,12 @@ background-color:#efefef;
 border:1px solid #000000;   
 }
 
+.header {
+     float: left;
+     width: 30%;
+     margin-right: 3.33333%;
+     padding: 20px;
+     background: #eee;
+     box-sizing: border-box;
+}
+
