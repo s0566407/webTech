@@ -1,1 +1,6 @@
-<img src= "bilder/beispielbild.jpg>
+/*Versuch 1 */
+body {
+  background:url(bilder/beispielbild.jpg);
+  font: 80% Verdana, Arial, Helvetica, sans-serif;
+  color: #ff0000;
+}
