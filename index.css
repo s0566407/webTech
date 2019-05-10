@@ -16,7 +16,7 @@ border:1px solid #000000;
 .GlobalHeader {
    word-spacing: 50px;
     text-align: center;
-     background-image:C:\Users\Soufian\Pictures("a.jpg");
+     background-image: \Pictures("a.jpg");
     
 }
 
