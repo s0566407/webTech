@@ -6,4 +6,10 @@ div.Beispiel1{
 div.BSP2{
     color: red;
 }
+div.Abgrenzung{
+ position:absolute;right:20px;top:100px;
+width:100px;height:200px;
+background-color:#efefef;
+border:1px solid #ff0000;   
+}
 
