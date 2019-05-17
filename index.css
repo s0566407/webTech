@@ -23,3 +23,8 @@ border:1px solid #000000;
     word-spacing: 50px;
     text-align: center;
 }
+ h2{
+     :: - webkit-scrollbar-thumb
+         background: black;
+         border- radius: 10px;
+     }
