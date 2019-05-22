@@ -1,5 +1,7 @@
 /*Versuch 1 */
-div.Beispiel1{
+.container{
+    padding: 15px;
+    border: 2px solid rgb(150,150,150);
     text-align: center;
     
   }
