@@ -93,18 +93,19 @@ header a:hover{
 }
 
 /* Showcase */
-div.Hauptbild{
+#showcase{
     min-height: 650px;
-    background: no-repeat 0;
+    background: url('./img/img1.jpeg') no-repeat 0;
     background-size: cover; 
     text-align: left;
     color: #ffffff;
     border-bottom: #e8491d 3px solid;
 }
 #showcase_action{
-    min-height: 650px;
+    min-height: 1300px;
     background: url('./img/actionpic.jpg') no-repeat 0;
-    background-size: cover; 
+    background-size: cover;
+    height: auto;
     text-align: left;
     color: #ffffff;
     border-bottom: #e8491d 3px solid;  
@@ -128,13 +129,17 @@ div.empfehlungsbild{
     margin-top: 0px;
     font-size: 55px;
     margin-bottom: 0px;
+    text-align: center;
 }
 
 div.Empf_link{
     color: #e8491d;
     font-weight : bold;
 }
-
+div.Actionbild01{
+    margin-right: 795px;
+    float: right;
+}
 
 #showcase p{
     font-size: 20px;
