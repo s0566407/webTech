@@ -81,6 +81,9 @@ header nav{
     float: right;
     margin-right: 10px;
 }
+div.Suchleiste{
+    text-align: right;
+}
 
 header .highlight, header .current a{
     color: #e8491d;
